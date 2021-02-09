@@ -7,6 +7,7 @@
 
 import UIKit
 
+// Test app, demonstrating basic Storyboard functionality.
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
